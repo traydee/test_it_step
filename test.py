@@ -1,1 +1,1 @@
-print("Hellow")
+print("Heow")
