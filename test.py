@@ -1,1 +1,1 @@
-print("Heow")
+print("TOKEN")
